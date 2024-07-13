@@ -1,23 +1,13 @@
-Name:
-
-K C ARJUN
+Name:K C ARJUN
 
 
-Domain:
-
-Java internship
+Domain:Java internship
 
 
-Intern iD:
-
-SMI71929
+Intern iD:SMI71929
 
 
-Duration:
-
-june 15-August 15-2024
+Duration:june 15-August 15-2024
 
 
-Internship mail address:
-
-arjunkuruba124@gmail.com
+Internship mail address:arjunkuruba124@gmail.com
